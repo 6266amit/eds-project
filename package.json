@@ -1,8 +1,9 @@
+
 {
-  "name": "@adobe/aem-boilerplate",
+  "name": "eds-project",
   "private": true,
-  "version": "1.3.0",
-  "description": "Starter project for Adobe Helix",
+  "version": "1.0.0",
+  "description": "My Adobe Edge Delivery Services project",
   "scripts": {
     "lint:js": "eslint . --ext .json,.js,.mjs",
     "lint:css": "stylelint \"blocks/**/*.css\" \"styles/*.css\"",
@@ -16,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adobe/aem-boilerplate.git"
+    "url": "git+https://github.com/6266amit/eds-project.git"
   },
-  "author": "Adobe",
-  "license": "Apache License 2.0",
+  "author": "Amit",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/adobe/aem-boilerplate/issues"
+    "url": "https://github.com/6266amit/eds-project/issues"
   },
-  "homepage": "https://github.com/adobe/aem-boilerplate#readme",
+  "homepage": "https://github.com/6266amit/eds-project#readme",
   "devDependencies": {
     "@babel/eslint-parser": "7.28.6",
     "eslint": "8.57.1",
